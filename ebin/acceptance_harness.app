@@ -70,5 +70,5 @@
                              phoenix_html,phoenix_live_view,plug,ecto_sql]},
               {description,"Reusable Phoenix acceptance-test evidence, diagnostics, and deployment gate harness."},
               {registered,[]},
-              {vsn,"0.10.6"},
+              {vsn,"0.10.7"},
               {mod,{'Elixir.AcceptanceHarness.Application',[]}}]}.

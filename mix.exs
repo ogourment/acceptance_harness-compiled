@@ -28,7 +28,7 @@ defmodule Mix.Tasks.Compile.BinaryAcceptanceHarness do
     "ebin/Elixir.AcceptanceHarness.Terminal.Assertions.beam" =>
       "17A28A8DC89AFA86D4EE11D07CE7AEAF645CD6809E2B4B5D2812BA59889B701E",
     "ebin/Elixir.AcceptanceHarness.Terminal.PortTransport.beam" =>
-      "71960DA9255105833E2709125F65D58BA7468DEC556A4562626068757E400073",
+      "35EA179AA5319B057375D432E25ECDBEB2744D1BC5C399E86CB16D3E0DC5753A",
     "ebin/Elixir.AcceptanceHarness.TestRepo.beam" =>
       "D81228284BC7EA86ACBF98F1A48C775D2E0A3E78334F57CA04B67710107233F2",
     "ebin/Elixir.AcceptanceHarness.Health.beam" =>
@@ -64,7 +64,7 @@ defmodule Mix.Tasks.Compile.BinaryAcceptanceHarness do
     "ebin/Elixir.AcceptanceHarness.Playwright.ATDDCase.beam" =>
       "3C5123F40B411FF9E128391ED0C0749F3C5637B755E683AD38AEC5D2F24BC163",
     "ebin/acceptance_harness.app" =>
-      "22ECA9A4151F5AE2C36926D6E5C2B5B41DC286671D6E2C5F0CB19722D872F7BB",
+      "78A20F0959A3209ADF7FA53FD61C3953CBCA29AFE039830F65414ED97B744D37",
     "ebin/Elixir.AcceptanceHarness.ResourceGate.ProcessCollector.beam" =>
       "0C3BCDEB241D073357C47CEFBCF685CACF19482DDDA05369A3FD4EBD709DD93C",
     "ebin/Elixir.Mix.Tasks.Acceptance.SchemaDiagram.beam" =>
@@ -86,11 +86,11 @@ defmodule Mix.Tasks.Compile.BinaryAcceptanceHarness do
     "ebin/Elixir.AcceptanceHarness.Timing.beam" =>
       "5BEFB87F2C6373BEEDF8BC8075A4BB15CF9031AF388D1443CFA876BDE5768C61",
     "ebin/Elixir.AcceptanceHarnessWeb.RunIndexLive.beam" =>
-      "3384D80A800331C20009FADBCC69D61C5A92C84E8160470E0F7E225327D1D2A0",
+      "D23884C80E412D8221250755DA70CA1271A571F6B1A2F93734C2A1A111BE802C",
     "ebin/Elixir.Mix.Tasks.Acceptance.Incremental.beam" =>
       "64C2CA39031341BD6C90CEAF19E327E95BA833A90C7B5AC59DCCB0AD9B5ED823",
     "ebin/Elixir.AcceptanceHarnessWeb.ScenarioLive.beam" =>
-      "960EDEB24EBD30641DF759D1CB847D76728D757FD4FAC5DF9B42F92C1E4E833C",
+      "4AAEC8BC2A2AC94C72FEADAD49FDB945B8612E76C5E409BFD090C0E75BCD8C25",
     "ebin/Elixir.AcceptanceHarness.SourceHistory.beam" =>
       "83CE9FE4B7B40D0FC0F487155C267F0CF093C6CC26EE7B5855FB7C63434A6157",
     "ebin/Elixir.AcceptanceHarness.Site.beam" =>
@@ -98,7 +98,7 @@ defmodule Mix.Tasks.Compile.BinaryAcceptanceHarness do
     "ebin/Elixir.AcceptanceHarness.SchemaDiagramArtifacts.beam" =>
       "F5A026E019E603F98223055EE423B8E1E6942D57106B3EF622D847ADC20D3794",
     "ebin/Elixir.AcceptanceHarnessWeb.RunLive.beam" =>
-      "A955E7010C85C25A7AC61827E26C507847E41982154C0869F6FDBDDC6FE4F874",
+      "426B70E57264AA7686B619D854AD1E14AF5A1333F6F4D58937F214B160F1F8CB",
     "ebin/Elixir.AcceptanceHarness.Evidence.beam" =>
       "B705A69633961C8C5EE5C89A9B95E8F42042A0DC36630BBE75A169794033ABE8",
     "ebin/Elixir.AcceptanceHarness.Gate.beam" =>
@@ -106,7 +106,7 @@ defmodule Mix.Tasks.Compile.BinaryAcceptanceHarness do
     "ebin/Elixir.AcceptanceHarness.EvidenceFacade.beam" =>
       "6F0B7A269754CD19E91E4EBCB5E096B3BBFDE0D3E10DF0CEEE11902C1B1F79D3",
     "ebin/Elixir.AcceptanceHarness.AdminStore.beam" =>
-      "59F44BA071B6154481DC8E99CDE1A1267FBF66735690443438D0EE788C2DAA42",
+      "7F6DFE6F02ED0666CE8E15DFF790BB57DEE40C98496E762D1B86426BD2DCC95E",
     "ebin/Elixir.Mix.Tasks.Acceptance.Assemble.beam" =>
       "910AB3DA2F6B994ACFA6544897AF1D8D128848344E9B4D14E042529C1FA0343E",
     "ebin/Elixir.AcceptanceHarness.Deployment.beam" =>
@@ -126,7 +126,7 @@ defmodule Mix.Tasks.Compile.BinaryAcceptanceHarness do
     "ebin/Elixir.AcceptanceHarness.Terminal.Evidence.beam" =>
       "2CBA748397E30F3A5ECC1CF0C560082C2EB8319E2E62995BCD461EF4374B1546",
     "ebin/Elixir.AcceptanceHarnessWeb.VersionLive.beam" =>
-      "824DE3EA1B0403D76661C686AAD414A57510808A0E5D2D47B654D9C19AC9FCF0",
+      "95EF83C43C577F264C8E45F12FA859546327F92705F4A7F7F761D8C29F22B6C1",
     "ebin/Elixir.AcceptanceHarness.FailureDiagnostics.beam" =>
       "5F7AC027379815350B3313A4B6A7FE20D974083EC118125CA9901B26826AB5B0",
     "ebin/Elixir.AcceptanceHarness.StaleFiles.beam" =>
@@ -171,7 +171,7 @@ defmodule Compiled.AcceptanceHarness.MixProject do
   def project do
     [
       app: :acceptance_harness,
-      version: "0.10.6",
+      version: "0.10.7",
       elixir: "~> 1.20.0",
       compilers: [:binary_acceptance_harness],
       deps: [
